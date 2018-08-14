@@ -22,6 +22,6 @@ Three will deal with long term evolution.
 
 # Components
 
-- web client ([carter](https://github.com/konishi-project/carter))
+- web client ([higala](https://github.com/konishi-project/higala))
 - back end ([zimmerman](https://github.com/konishi-project/zimmerman))
 - Facebook bot (pending)
