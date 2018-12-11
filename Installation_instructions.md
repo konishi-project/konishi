@@ -61,7 +61,7 @@ python3
 3.
 ```
 INSERT INTO user (email,username,first_name,last_name,password,joined_date)
-VALUES ('trap@are.gay','mr.gudetama','mr','gudetama','sha512$p5dTmOr1$13d80ee99606cd9f541cc6d7599803e460989da02d814395405abf95f4dcb2b3bcac9307b721601723ca41b4a1ad2fa0642e6e808ee4dbb4a47930d9e2093ff0',DATETIME()); 
+VALUES ('traps@are.gay','gudetama','mr','gudetama','sha512$p5dTmOr1$13d80ee99606cd9f541cc6d7599803e460989da02d814395405abf95f4dcb2b3bcac9307b721601723ca41b4a1ad2fa0642e6e808ee4dbb4a47930d9e2093ff0',DATETIME()); 
 ```
 
 ### Start backend
