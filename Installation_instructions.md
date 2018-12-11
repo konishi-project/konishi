@@ -43,9 +43,25 @@ quit() # Exit out of python
 ```
 
 ### Add admin user
+1. Generate password hash
+```
+cd /var/www/zimmerman
+source konishienv/bin/activate
+
+python3
+>> from werkzeug.security import generate_password_hash
+>> generate_password_hash('Zuccalicious666#', method='sha512')
+>> exit()
+```
+'sha512$p5dTmOr1$13d80ee99606cd9f541cc6d7599803e460989da02d814395405abf95f4dcb2b3bcac9307b721601723ca41b4a1ad2fa0642e6e808ee4dbb4a47930d9e2093ff0'
+
+### Insert guest user into db
+1. `cd /var/www/zimmerman`
+2. `sqlite3 konishi.db`
+3.
 ```
 INSERT INTO user (email,username,first_name,last_name,password,joined_date)
-VALUES ('ur@mail.lol','admin','mr','badmin','<<HASH>>',DATETIME());  # I forget how to generate the hash, it's somewhere in the source code, look for the register user function.
+VALUES ('trap@are.gay','mr.gudetama','mr','gudetama','sha512$p5dTmOr1$13d80ee99606cd9f541cc6d7599803e460989da02d814395405abf95f4dcb2b3bcac9307b721601723ca41b4a1ad2fa0642e6e808ee4dbb4a47930d9e2093ff0',DATETIME()); 
 ```
 
 ### Start backend
