@@ -25,3 +25,7 @@ Three will deal with long term evolution.
 - web client ([higala](https://github.com/konishi-project/higala))
 - back end ([zimmerman](https://github.com/konishi-project/zimmerman))
 - Facebook bot (pending)
+
+# Live demo
+  * http://80.101.63.121/  (dev branches)
+  * More soon!
