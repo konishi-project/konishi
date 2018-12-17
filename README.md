@@ -9,7 +9,7 @@ The project will include a Facebook bot aiding in migration of an existing
 Facebook group to Konishi.
 
 # Public announcements
-Go [here for general discussion and news on Konishi](https://github.com/orgs/konishi-project/teams/everyone), and [read this](https://github.com/konishi-project/konishi) for more info on the project. Specific ideas/issues on the frontend [can be posted here](https://github.com/konishi-project/higala/issues). Specific ideas/issues on the backend [go here](https://github.com/konishi-project/zimmerman/issues). General ideas / issues with Konishi as a whole [can go here](https://github.com/konishi-project/konishi/issues)
+Go [here for general discussion and news on Konishi](https://github.com/orgs/konishi-project/teams/everyone). Specific ideas/issues on the frontend [can be posted here](https://github.com/konishi-project/higala/issues). Specific ideas/issues on the backend [go here](https://github.com/konishi-project/zimmerman/issues). General ideas / issues with Konishi as a whole [can go here](https://github.com/konishi-project/konishi/issues)
 
 # Progress
 
