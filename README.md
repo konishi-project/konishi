@@ -30,5 +30,5 @@ Three will deal with long term evolution.
 - Facebook bot (pending)
 
 # Live demo
-  * http://80.101.63.121/  (dev branches)
+  * http://konishi.pcmrhub.com/ (dev branch)
   * More soon!
