@@ -8,8 +8,11 @@ performance and responsiveness.
 The project will include a Facebook bot aiding in migration of an existing
 Facebook group to Konishi.
 
-# Public announcements
+# Public announcements & Feedback
 Go [here for general discussion and news on Konishi](https://github.com/orgs/konishi-project/teams/everyone). Specific ideas/issues on the frontend [can be posted here](https://github.com/konishi-project/higala/issues). Specific ideas/issues on the backend [go here](https://github.com/konishi-project/zimmerman/issues). General ideas / issues with Konishi as a whole [can go here](https://github.com/konishi-project/konishi/issues)
+
+# Documentation
+There are installation instructions for every part of Konishi in the README of each repository. Next to that, there is a (barebones) [installation instruction](https://github.com/konishi-project/konishi/blob/master/Documentation/Installation_instructions.md) for the whole package, which includes setting up the requirements for the package; and documentation of how all the parts fit together to serve Konishi in the [Architecture Overview](https://github.com/konishi-project/konishi/blob/master/Documentation/Konishi_Architecture.MD). It's suggested to start at the last link, as that one will be updated most frequently.
 
 # Progress
 
@@ -30,5 +33,5 @@ Three will deal with long term evolution.
 - Facebook bot (pending)
 
 # Live demo
-  * http://konishi.pcmrhub.com/ (dev branch)
-  * More soon!
+  * http://konishi.club/ (dev branch)
+
