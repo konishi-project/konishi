@@ -1,4 +1,5 @@
 # What is this
+**First of all, Konishi is NOT Kamina.**
 
 The Konishi project is an initiative to build a minimalistic, dynamic
 discussion board. The goal is to closely imitate the core Facebook group
