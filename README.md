@@ -29,8 +29,8 @@ Three will deal with long term evolution.
 
 # Components
 
-- Web Client ([higala](https://github.com/x1zeth2x/kagawasan))
-- Backend ([zimmerman](https://github.com/konishi-project/zimmerman))
+- Web Client ([Kagawasan](https://github.com/x1zeth2x/kagawasan))
+- Backend ([Zimmerman](https://github.com/konishi-project/zimmerman))
 - Facebook bot (pending)
 
 # Live demo
