@@ -29,10 +29,10 @@ Three will deal with long term evolution.
 
 # Components
 
-- web client ([higala](https://github.com/konishi-project/higala))
-- back end ([zimmerman](https://github.com/konishi-project/zimmerman))
+- Web Client ([higala](https://github.com/x1zeth2x/kagawasan))
+- Backend ([zimmerman](https://github.com/konishi-project/zimmerman))
 - Facebook bot (pending)
 
 # Live demo
-  * http://konishi.club/ (dev branch)
+  * https://konishi.netlify.com (dev branch)
 
