@@ -23,8 +23,9 @@ Konishi is currently in Phase One, which will end with a minimal viable product
 ready to support a community.
 
 Check the progress on:
-[Zimmerman](https://github.com/konishi-project/zimmerman)
-[Kagawasan](https://github.com/konishi-project/kagawasan)
+
+* [Zimmerman](https://github.com/konishi-project/zimmerman) (Backend - Flask Python)
+* [Kagawasan](https://github.com/konishi-project/kagawasan) (Frontend - Vue Typescript)
 
 Later, Phase Two will deal with creation of the Facebook bot and support of
 first migration of a Facebook group to a Konishi instance. Afterwards, Phase
