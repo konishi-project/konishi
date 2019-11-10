@@ -22,8 +22,9 @@ There are installation instructions for every part of Konishi in the README of e
 Konishi is currently in Phase One, which will end with a minimal viable product
 ready to support a community.
 
-Check the progress on the [project
-board](https://github.com/orgs/konishi-project/projects/1).
+Check the progress on:
+[Zimmerman](https://github.com/konishi-project/zimmerman)
+[Kagawasan](https://github.com/konishi-project/kagawasan)
 
 Later, Phase Two will deal with creation of the Facebook bot and support of
 first migration of a Facebook group to a Konishi instance. Afterwards, Phase
